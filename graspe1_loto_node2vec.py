@@ -471,7 +471,7 @@ Embedding: LID ElasticW | alpha=0.85
 gensim: 4.4.0 | torch: 2.8.0
 
 Predikcija (dinamički graf + LID ElasticW):
-[7, 8, 11, 22, 23, 34, 37]
+[7, 8, x, y, z, 34, 37]
 """
 
 
@@ -487,7 +487,7 @@ Embedding: LID ElasticW | alpha=0.85
 gensim: 4.4.0 | torch: 2.8.0
 
 Predikcija (dinamički graf + LID ElasticW):
-[8, 10, 23, 25, 33, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -503,7 +503,7 @@ Embedding: LID ElasticWPQ | alpha=0.85
 gensim: 4.4.0 | torch: 2.8.0
 
 Predikcija (dinamički graf + LID ElasticWPQ):
-[7, 8, 11, 22, 23, 34, 37]
+[7, 8, x, y, z, 34, 37]
 """
 
 
@@ -518,7 +518,7 @@ variant=native
 Embedding: Node2VecEmbeddingNative
 
 Predikcija (dinamički graf + Node2Vec native):
-[8, 10, 23, 25, 32, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -534,7 +534,7 @@ Embedding: HA_N2V HubsMore
 gensim: 4.4.0
 
 Predikcija (dinamički graf + HA_N2V HubsMore):
-[8, 10, 22, 23, 29, 34, 37]
+[8, 10, x, y, z, 34, 37]
 """
 
 
@@ -550,7 +550,7 @@ Embedding: HA_N2V HubsMore
 gensim: 4.4.0
 
 Predikcija (dinamički graf + HA_N2V HubsMore):
-[8, 10, 23, 25, 32, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -566,7 +566,7 @@ Embedding: HA_N2V HubsLess
 gensim: 4.4.0
 
 Predikcija (dinamički graf + HA_N2V HubsLess):
-[8, 10, 23, 25, 32, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -582,7 +582,7 @@ Embedding: HA_N2V HubsMoreLog
 gensim: 4.4.0
 
 Predikcija (dinamički graf + HA_N2V HubsMoreLog):
-[8, 10, 22, 23, 32, 34, 39]
+[8, 10, x, y, z, 34, 39]
 """
 
 
@@ -598,7 +598,7 @@ Embedding: HA_N2V HubsLessLog
 gensim: 4.4.0
 
 Predikcija (dinamički graf + HA_N2V HubsLessLog):
-[7, 8, 11, 22, 23, 34, 37]
+[7, 8, x, y, z, 34, 37]
 """
 
 
